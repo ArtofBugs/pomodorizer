@@ -1,4 +1,4 @@
-Work In Progress
+# Work In Progress
 
 # Pomodorizer
 
@@ -17,3 +17,11 @@ Work In Progress
 - Choose an export file type
 
 I may make something else compatible with exported pomodoros that can run them, stash breaks, extend sessions, etc.
+
+
+## Installation Instructions
+
+First, install [`ffmpeg`](https://ffmpeg.org/download.html), then clone this repository using
+```
+git clone https://github.com/ArtofBugs/pomodorizer.git
+```
